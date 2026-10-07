@@ -1,0 +1,536 @@
+{
+  "schemaVersion": 1,
+  "paletteColors": 221,
+  "works": [
+    {
+      "id": "jinling-twelve-beauties",
+      "source": "01-jinling-twelve-beauties.png",
+      "title": "金陵十二钗·群芳雅集",
+      "category": "古典人物",
+      "description": "十二位古典仕女同堂，服饰、发饰与屏风层次完整保留。",
+      "width": 512,
+      "height": 288,
+      "beadCount": 147456,
+      "usedColors": 163,
+      "thumbnail": "/gallery/thumbs/jinling-twelve-beauties.jpg",
+      "display": "/gallery/4k/jinling-twelve-beauties.jpg",
+      "pattern": "/gallery/patterns/jinling-twelve-beauties.svg",
+      "data": "/gallery/patterns/jinling-twelve-beauties.json",
+      "topMaterials": [
+        {
+          "code": "H16",
+          "name": "色号 H16",
+          "hex": "#3B2F23",
+          "quantity": 11478
+        },
+        {
+          "code": "G8",
+          "name": "色号 G8",
+          "hex": "#592A21",
+          "quantity": 11416
+        },
+        {
+          "code": "H7",
+          "name": "色号 H7",
+          "hex": "#000000",
+          "quantity": 11038
+        },
+        {
+          "code": "G3",
+          "name": "色号 G3",
+          "hex": "#F4C3A5",
+          "quantity": 6410
+        },
+        {
+          "code": "M9",
+          "name": "色号 M9",
+          "hex": "#A58767",
+          "quantity": 4974
+        },
+        {
+          "code": "G4",
+          "name": "色号 G4",
+          "hex": "#E1B383",
+          "quantity": 4729
+        }
+      ]
+    },
+    {
+      "id": "qingming-rainbow-bridge",
+      "source": "02-qingming-rainbow-bridge.png",
+      "title": "清明上河·虹桥市集",
+      "category": "历史名景",
+      "description": "以虹桥与汴河市井为主体的大幅历史场景。",
+      "width": 512,
+      "height": 288,
+      "beadCount": 147456,
+      "usedColors": 156,
+      "thumbnail": "/gallery/thumbs/qingming-rainbow-bridge.jpg",
+      "display": "/gallery/4k/qingming-rainbow-bridge.jpg",
+      "pattern": "/gallery/patterns/qingming-rainbow-bridge.svg",
+      "data": "/gallery/patterns/qingming-rainbow-bridge.json",
+      "topMaterials": [
+        {
+          "code": "G8",
+          "name": "色号 G8",
+          "hex": "#592A21",
+          "quantity": 11743
+        },
+        {
+          "code": "G7",
+          "name": "色号 G7",
+          "hex": "#9D5B3E",
+          "quantity": 8390
+        },
+        {
+          "code": "H16",
+          "name": "色号 H16",
+          "hex": "#3B2F23",
+          "quantity": 7113
+        },
+        {
+          "code": "G14",
+          "name": "色号 G14",
+          "hex": "#8D614C",
+          "quantity": 7101
+        },
+        {
+          "code": "M9",
+          "name": "色号 M9",
+          "hex": "#A58767",
+          "quantity": 4936
+        },
+        {
+          "code": "H5",
+          "name": "色号 H5",
+          "hex": "#474747",
+          "quantity": 4737
+        }
+      ]
+    },
+    {
+      "id": "national-day-celebration",
+      "source": "03-national-day-celebration.png",
+      "title": "盛世华章·国庆欢歌",
+      "category": "节庆主题",
+      "description": "红金主调的国庆庆祝场景，包含群众、花坛与城市天际线。",
+      "width": 512,
+      "height": 288,
+      "beadCount": 147456,
+      "usedColors": 139,
+      "thumbnail": "/gallery/thumbs/national-day-celebration.jpg",
+      "display": "/gallery/4k/national-day-celebration.jpg",
+      "pattern": "/gallery/patterns/national-day-celebration.svg",
+      "data": "/gallery/patterns/national-day-celebration.json",
+      "topMaterials": [
+        {
+          "code": "C12",
+          "name": "色号 C12",
+          "hex": "#1C334D",
+          "quantity": 12249
+        },
+        {
+          "code": "D10",
+          "name": "色号 D10",
+          "hex": "#361B50",
+          "quantity": 9992
+        },
+        {
+          "code": "F15",
+          "name": "色号 F15",
+          "hex": "#C80020",
+          "quantity": 7353
+        },
+        {
+          "code": "H7",
+          "name": "色号 H7",
+          "hex": "#000000",
+          "quantity": 7278
+        },
+        {
+          "code": "H6",
+          "name": "色号 H6",
+          "hex": "#2C2C2C",
+          "quantity": 5001
+        },
+        {
+          "code": "M12",
+          "name": "色号 M12",
+          "hex": "#644749",
+          "quantity": 4803
+        }
+      ]
+    },
+    {
+      "id": "original-anime-ensemble",
+      "source": "04-original-anime-ensemble.png",
+      "title": "星光学园·原创群像",
+      "category": "动漫卡通",
+      "description": "原创动漫人物群像，强调发色、服装与表情辨识度。",
+      "width": 512,
+      "height": 288,
+      "beadCount": 147456,
+      "usedColors": 184,
+      "thumbnail": "/gallery/thumbs/original-anime-ensemble.jpg",
+      "display": "/gallery/4k/original-anime-ensemble.jpg",
+      "pattern": "/gallery/patterns/original-anime-ensemble.svg",
+      "data": "/gallery/patterns/original-anime-ensemble.json",
+      "topMaterials": [
+        {
+          "code": "G8",
+          "name": "色号 G8",
+          "hex": "#592A21",
+          "quantity": 8336
+        },
+        {
+          "code": "H16",
+          "name": "色号 H16",
+          "hex": "#3B2F23",
+          "quantity": 8107
+        },
+        {
+          "code": "G14",
+          "name": "色号 G14",
+          "hex": "#8D614C",
+          "quantity": 6572
+        },
+        {
+          "code": "H7",
+          "name": "色号 H7",
+          "hex": "#000000",
+          "quantity": 6141
+        },
+        {
+          "code": "F11",
+          "name": "色号 F11",
+          "hex": "#6F201F",
+          "quantity": 5460
+        },
+        {
+          "code": "M12",
+          "name": "色号 M12",
+          "hex": "#644749",
+          "quantity": 5304
+        }
+      ]
+    },
+    {
+      "id": "tang-palace-banquet",
+      "source": "05-tang-palace-banquet.png",
+      "title": "大唐夜宴",
+      "category": "古典人物",
+      "description": "唐代宫廷宴饮题材，暖金灯火与华服细节丰富。",
+      "width": 512,
+      "height": 288,
+      "beadCount": 147456,
+      "usedColors": 140,
+      "thumbnail": "/gallery/thumbs/tang-palace-banquet.jpg",
+      "display": "/gallery/4k/tang-palace-banquet.jpg",
+      "pattern": "/gallery/patterns/tang-palace-banquet.svg",
+      "data": "/gallery/patterns/tang-palace-banquet.json",
+      "topMaterials": [
+        {
+          "code": "H7",
+          "name": "色号 H7",
+          "hex": "#000000",
+          "quantity": 12303
+        },
+        {
+          "code": "G8",
+          "name": "色号 G8",
+          "hex": "#592A21",
+          "quantity": 10866
+        },
+        {
+          "code": "H16",
+          "name": "色号 H16",
+          "hex": "#3B2F23",
+          "quantity": 7785
+        },
+        {
+          "code": "G20",
+          "name": "色号 G20",
+          "hex": "#A94023",
+          "quantity": 7099
+        },
+        {
+          "code": "F10",
+          "name": "色号 F10",
+          "hex": "#A74D22",
+          "quantity": 5621
+        },
+        {
+          "code": "C12",
+          "name": "色号 C12",
+          "hex": "#1C334D",
+          "quantity": 5277
+        }
+      ]
+    },
+    {
+      "id": "great-wall-autumn",
+      "source": "06-great-wall-autumn.png",
+      "title": "长城秋色",
+      "category": "历史名景",
+      "description": "群山、敌楼与秋林构成的宽幅风景图纸。",
+      "width": 512,
+      "height": 288,
+      "beadCount": 147456,
+      "usedColors": 152,
+      "thumbnail": "/gallery/thumbs/great-wall-autumn.jpg",
+      "display": "/gallery/4k/great-wall-autumn.jpg",
+      "pattern": "/gallery/patterns/great-wall-autumn.svg",
+      "data": "/gallery/patterns/great-wall-autumn.json",
+      "topMaterials": [
+        {
+          "code": "E23",
+          "name": "色号 E23",
+          "hex": "#937A8D",
+          "quantity": 7620
+        },
+        {
+          "code": "M12",
+          "name": "色号 M12",
+          "hex": "#644749",
+          "quantity": 7392
+        },
+        {
+          "code": "G20",
+          "name": "色号 G20",
+          "hex": "#A94023",
+          "quantity": 5320
+        },
+        {
+          "code": "F15",
+          "name": "色号 F15",
+          "hex": "#C80020",
+          "quantity": 4890
+        },
+        {
+          "code": "G14",
+          "name": "色号 G14",
+          "hex": "#8D614C",
+          "quantity": 4716
+        },
+        {
+          "code": "F13",
+          "name": "色号 F13",
+          "hex": "#DD422F",
+          "quantity": 4647
+        }
+      ]
+    },
+    {
+      "id": "rainy-city-blue-hour",
+      "source": "07-rainy-city-blue-hour.png",
+      "title": "雨夜城市·蓝调时刻",
+      "category": "现实风景",
+      "description": "雨幕、霓虹倒影与街道纵深组成的现实城市题材。",
+      "width": 512,
+      "height": 288,
+      "beadCount": 147456,
+      "usedColors": 171,
+      "thumbnail": "/gallery/thumbs/rainy-city-blue-hour.jpg",
+      "display": "/gallery/4k/rainy-city-blue-hour.jpg",
+      "pattern": "/gallery/patterns/rainy-city-blue-hour.svg",
+      "data": "/gallery/patterns/rainy-city-blue-hour.json",
+      "topMaterials": [
+        {
+          "code": "H7",
+          "name": "色号 H7",
+          "hex": "#000000",
+          "quantity": 21148
+        },
+        {
+          "code": "C12",
+          "name": "色号 C12",
+          "hex": "#1C334D",
+          "quantity": 10651
+        },
+        {
+          "code": "G8",
+          "name": "色号 G8",
+          "hex": "#592A21",
+          "quantity": 8165
+        },
+        {
+          "code": "H6",
+          "name": "色号 H6",
+          "hex": "#2C2C2C",
+          "quantity": 7368
+        },
+        {
+          "code": "H16",
+          "name": "色号 H16",
+          "hex": "#3B2F23",
+          "quantity": 6561
+        },
+        {
+          "code": "C29",
+          "name": "色号 C29",
+          "hex": "#4B5BA3",
+          "quantity": 4816
+        }
+      ]
+    },
+    {
+      "id": "pet-family-conservatory",
+      "source": "08-pet-family-conservatory.png",
+      "title": "阳光花房·萌宠一家",
+      "category": "宠物",
+      "description": "猫犬与花房植物同框，毛色区分清晰、氛围明亮。",
+      "width": 512,
+      "height": 288,
+      "beadCount": 147456,
+      "usedColors": 147,
+      "thumbnail": "/gallery/thumbs/pet-family-conservatory.jpg",
+      "display": "/gallery/4k/pet-family-conservatory.jpg",
+      "pattern": "/gallery/patterns/pet-family-conservatory.svg",
+      "data": "/gallery/patterns/pet-family-conservatory.json",
+      "topMaterials": [
+        {
+          "code": "F10",
+          "name": "色号 F10",
+          "hex": "#A74D22",
+          "quantity": 11457
+        },
+        {
+          "code": "G4",
+          "name": "色号 G4",
+          "hex": "#E1B383",
+          "quantity": 10493
+        },
+        {
+          "code": "B23",
+          "name": "色号 B23",
+          "hex": "#303921",
+          "quantity": 9347
+        },
+        {
+          "code": "G10",
+          "name": "色号 G10",
+          "hex": "#C88135",
+          "quantity": 8391
+        },
+        {
+          "code": "M13",
+          "name": "色号 M13",
+          "hex": "#D19066",
+          "quantity": 6789
+        },
+        {
+          "code": "B26",
+          "name": "色号 B26",
+          "hex": "#8C7A36",
+          "quantity": 6531
+        }
+      ]
+    },
+    {
+      "id": "lantern-festival-canal",
+      "source": "09-lantern-festival-canal.png",
+      "title": "上元灯会·水巷千灯",
+      "category": "节庆主题",
+      "description": "江南水巷、游船与灯笼组成的夜景民俗画面。",
+      "width": 512,
+      "height": 288,
+      "beadCount": 147456,
+      "usedColors": 133,
+      "thumbnail": "/gallery/thumbs/lantern-festival-canal.jpg",
+      "display": "/gallery/4k/lantern-festival-canal.jpg",
+      "pattern": "/gallery/patterns/lantern-festival-canal.svg",
+      "data": "/gallery/patterns/lantern-festival-canal.json",
+      "topMaterials": [
+        {
+          "code": "G8",
+          "name": "色号 G8",
+          "hex": "#592A21",
+          "quantity": 11635
+        },
+        {
+          "code": "H7",
+          "name": "色号 H7",
+          "hex": "#000000",
+          "quantity": 10888
+        },
+        {
+          "code": "H16",
+          "name": "色号 H16",
+          "hex": "#3B2F23",
+          "quantity": 7320
+        },
+        {
+          "code": "C12",
+          "name": "色号 C12",
+          "hex": "#1C334D",
+          "quantity": 7136
+        },
+        {
+          "code": "D10",
+          "name": "色号 D10",
+          "hex": "#361B50",
+          "quantity": 6752
+        },
+        {
+          "code": "G14",
+          "name": "色号 G14",
+          "hex": "#8D614C",
+          "quantity": 5115
+        }
+      ]
+    },
+    {
+      "id": "underwater-cartoon-world",
+      "source": "10-underwater-cartoon-world.png",
+      "title": "深海奇遇·原创卡通世界",
+      "category": "动漫卡通",
+      "description": "原创海洋角色与珊瑚生态组成的高饱和卡通场景。",
+      "width": 512,
+      "height": 288,
+      "beadCount": 147456,
+      "usedColors": 216,
+      "thumbnail": "/gallery/thumbs/underwater-cartoon-world.jpg",
+      "display": "/gallery/4k/underwater-cartoon-world.jpg",
+      "pattern": "/gallery/patterns/underwater-cartoon-world.svg",
+      "data": "/gallery/patterns/underwater-cartoon-world.json",
+      "topMaterials": [
+        {
+          "code": "C20",
+          "name": "色号 C20",
+          "hex": "#0082BE",
+          "quantity": 13259
+        },
+        {
+          "code": "C12",
+          "name": "色号 C12",
+          "hex": "#1C334D",
+          "quantity": 8645
+        },
+        {
+          "code": "C19",
+          "name": "色号 C19",
+          "hex": "#1787A2",
+          "quantity": 5025
+        },
+        {
+          "code": "C10",
+          "name": "色号 C10",
+          "hex": "#3EBCE2",
+          "quantity": 4790
+        },
+        {
+          "code": "C16",
+          "name": "色号 C16",
+          "hex": "#1757A8",
+          "quantity": 4702
+        },
+        {
+          "code": "M3",
+          "name": "色号 M3",
+          "hex": "#697D80",
+          "quantity": 4133
+        }
+      ]
+    }
+  ]
+}
